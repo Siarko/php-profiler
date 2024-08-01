@@ -1,0 +1,18 @@
+{
+    "name": "siarkowodor/profiler",
+    "description": "Simple PHP Performance Profiler",
+    "version": "0.1",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "siarko",
+            "email": "labroqu@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Siarko\\Profiler\\": "src/"
+        }
+    }
+}
